@@ -49,6 +49,7 @@ TiddlyWiki에서 영감을 받은 초경량, 무의존성, 단일 파일 HTML �
 - **[TiddlyWiki Classic / Standalone](https://tiddlywiki.com/)** - 비선형 개인 웹 노트이자 단일 파일 웹 앱 패러다임을 개척한 전설적인 단일 파일 위키.
 - **[Teddy Wiki](https://crystal-world-project.github.io/crystal-world/index.html)** - 단일 파일 HTML 기반 인메모리 개인 지식 베이스 및 위키 시스템.
 - **[Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html)** - 다중 태그 쿼리 기능을 탑재한 초경량 단일 파일 마크다운 위키.
+- **[Three Shifts, Six Inversions — Knowledge Graph](https://0603wangxiao.github.io/36wx/kg/)** - 주역과 동양 철학적 프레임워크(삼변육반)를 단일 HTML 캔버스로 시각화한 386 KB 지식 그래프 *(중국어 / 인터랙티브 동양 철학 프레임워크)*. 노드 확대·축소·이동 및 클릭을 통해 정의와 출처 확인 가능. 외부 요청 없음 — 100% 오프라인 작동.
 - *(단일 파일 기반 아웃라이너, 저널링 템플릿, 플래시카드 도구 제보를 환영합니다)*
 
 ---
