@@ -46,7 +46,7 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 - **[TiddlyWiki Classic / Standalone](https://tiddlywiki.com/)** - The legendary single-file non-linear personal web notebook and pioneer of the single-file paradigm.
 - **[Teddy Wiki](https://crystal-world-project.github.io/crystal-world/index-en.html)** - A standalone in-memory single-file HTML wiki & personal knowledge base system.
 - **[Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html)** - Compact, single-file HTML markdown wiki with multi-tag query capabilities.
-- **[Three Shifts, Six Inversions — Knowledge Graph](https://0603wangxiao.github.io/36wx/kg/)** - A 386 KB single-file Canvas knowledge graph of a self-authored analytical framework (three shifts, six inversions, hexagrams, verse) (Chinese / Interactive Eastern Philosophy Framework); zoom, pan, and click any node to read its definition and source. Zero external requests — runs fully offline.
+- **[Three Shifts, Six Inversions — Knowledge Graph](https://0603wangxiao.github.io/36wx/kg/)** - A 386 KB single-file Canvas knowledge graph of a self-authored analytical framework (three shifts, six inversions, hexagrams, verse) *(Chinese / Interactive Eastern Philosophy Framework)*; zoom, pan, and click any node to read its definition and source. Zero external requests — runs fully offline.
 - *(Additional single-file outliners, journaling templates, and flashcard tools welcome)*
 
 ---
