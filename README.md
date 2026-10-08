@@ -53,6 +53,7 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 
 ## 🛠️ Utilities & Productivity
 
+- **[CSV Desk Encoding Checker](https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html)** - An 8.4 KB single-file CSV utility that distinguishes strict UTF-8 from GB18030 and previews Chinese text locally. No uploads, dependencies, analytics, or telemetry; save the HTML to use it offline.
 - *(Single-file Kanban boards)*
 - *(Local Pomodoro timers & Habit trackers)*
 - *(Offline calculators & decision matrix engines)*
