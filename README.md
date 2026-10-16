@@ -53,6 +53,7 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 
 ## 🛠️ Utilities & Productivity
 
+- **[ClearCSV](https://github.com/kapi117/clearcsv)** - A single-file CSV cleaner for trimming cells, removing blank and duplicate rows, and exporting CSV or JSON locally in the browser.
 - *(Single-file Kanban boards)*
 - *(Local Pomodoro timers & Habit trackers)*
 - *(Offline calculators & decision matrix engines)*
