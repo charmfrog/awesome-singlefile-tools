@@ -56,6 +56,7 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 - *(Single-file Kanban boards)*
 - *(Local Pomodoro timers & Habit trackers)*
 - *(Offline calculators & decision matrix engines)*
+- **[Freelance Rate Calculator](https://kleogeos.github.io/freelancer-tools/rate-calculator.html)** - Single-file HTML calculator that converts a target salary or hourly rate into a freelance day rate, accounting for unpaid time off, taxes, and overhead.
 
 ---
 
