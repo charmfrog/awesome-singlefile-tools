@@ -53,6 +53,7 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 
 ## 🛠️ Utilities & Productivity
 
+- **[Doc Diff](https://docdiff.app/)** - Compare PDF, Word (.docx), and pasted text locally without uploads or an account, with a self-contained offline HTML download; text comparison only, no OCR ([source and download](https://github.com/tschnorpfeil/docdiff)).
 - *(Single-file Kanban boards)*
 - *(Local Pomodoro timers & Habit trackers)*
 - *(Offline calculators & decision matrix engines)*
