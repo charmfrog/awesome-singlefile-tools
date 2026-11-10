@@ -47,12 +47,15 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 - **[Teddy Wiki](https://crystal-world-project.github.io/crystal-world/index-en.html)** - A standalone in-memory single-file HTML wiki & personal knowledge base system.
 - **[Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html)** - Compact, single-file HTML markdown wiki with multi-tag query capabilities.
 - **[Three Shifts, Six Inversions — Knowledge Graph](https://0603wangxiao.github.io/36wx/kg/)** - A 386 KB single-file Canvas knowledge graph of a self-authored analytical framework (three shifts, six inversions, hexagrams, verse) *(Chinese / Interactive Eastern Philosophy Framework)*; zoom, pan, and click any node to read its definition and source. Zero external requests — runs fully offline.
+- **[Remedy Relationship Explorer](https://drsamonline.github.io/remedy-relationship-explorer/play/)** - 6,500 homoeopathic remedy relationships from four public-domain materia medicas, each one naming its source; searchable offline.
 - *(Additional single-file outliners, journaling templates, and flashcard tools welcome)*
 
 ---
 
 ## 🛠️ Utilities & Productivity
 
+- **[Offline PDF Toolkit](https://drsamonline.github.io/offline-pdf-toolkit/play/)** - Merge, split, rotate, watermark, number, redact, OCR and compress PDFs in one HTML file; no file is ever uploaded.
+- **[Today Card](https://drsamonline.github.io/today-card/)** - One intention and one task for the day, with a streak that counts the days you showed up.
 - *(Single-file Kanban boards)*
 - *(Local Pomodoro timers & Habit trackers)*
 - *(Offline calculators & decision matrix engines)*
